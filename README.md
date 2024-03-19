@@ -1,8 +1,15 @@
 # Vite Tailwind Template
 
-## About project build
+This is a boilerplate project template for non-framework static frontend websites with Vite, TailwindCSS, Eslint and Prettier.
 
-This is a [Vite](https://vitejs.dev/) project template for non-framework static frontend websites.
+## What is inside?
+
+This project uses many tools like:
+
+- [Vite](https://vitejs.dev)
+- [Tailwindcss](https://tailwindcss.com)
+- [Eslint](https://eslint.org)
+- [Prettier](https://prettier.io)
 
 ## Getting Started
 
@@ -48,3 +55,9 @@ This template supports [Tailwind CSS](https://tailwindcss.com/) instead of SASS/
 ## JavaScript
 
 This template uses no frameworks or libraries, just vanilla JavaScript.
+
+You need to follow [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) to prevent eslint errors.
+
+## Eslint
+
+This template uses default .eslint config, extended with [Airbnb's extensible shared config](https://www.npmjs.com/package/eslint-config-airbnb-base).

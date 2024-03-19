@@ -1,5 +1,5 @@
-import { resolve } from 'path';
-import handlebars from 'vite-plugin-handlebars';
+import { resolve } from 'path'
+import handlebars from 'vite-plugin-handlebars'
 
 export default {
   plugins: [
@@ -7,4 +7,4 @@ export default {
       partialDirectory: resolve(__dirname, 'src/partials'),
     }),
   ],
-};
+}

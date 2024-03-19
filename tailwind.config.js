@@ -1,11 +1,10 @@
 /** @type {import('tailwindcss').Config} */
 export default {
-  content: ["./index.html", "./src/**/*.html"],
+  content: ['./index.html', './src/**/*.html'],
   theme: {
-    extend: {},
+    extend: {
+      сolors: {},
+    },
   },
-  plugins: [
-    require('tailwindcss'),
-    require('autoprefixer'),
-  ]
+  plugins: [require('tailwindcss'), require('autoprefixer')],
 }
