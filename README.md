@@ -2,7 +2,7 @@
 
 ![preview](https://github.com/saimonkat/vite-tailwind-template/assets/22715126/12fdcb26-8370-4440-a4fd-59668ffbd10a)
 
-This is a boilerplate project template for non-framework static frontend websites with Vite, TailwindCSS, Eslint and Prettier.
+This is a boilerplate project template for non-framework static frontend websites, configured with Vite, TailwindCSS, Eslint and Prettier.
 
 ## Motivation
 
